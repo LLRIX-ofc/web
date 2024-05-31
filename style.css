@@ -1,0 +1,163 @@
+
+.b1{
+  appearance: none;
+  background-color: #000000;
+  border: 2px solid #1A1A1A;
+  border-radius: 15px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Roobert,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  margin: 0;
+  min-height: 60px;
+  min-width: 0;
+  outline: none;
+  padding: 16px 24px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 100%;
+  will-change: transform;
+  width: 6.5cm;
+}
+
+.b1:disabled{
+  pointer-events: none;
+}
+
+.b1:hover{
+  box-shadow: #ffffff 0 0 25px;
+  transform: translateY(-6px);
+  color: #000000;
+  background-color: #ffffff;
+  border-color: #FFFFFF;
+}
+
+.b1:active{
+  box-shadow: none;
+  transform: translateY(0);
+}
+
+
+
+.b2{
+  appearance: none;
+  background-color: #000000;
+  border: 2px solid #1A1A1A;
+  border-radius: 15px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Roobert,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  margin: 0;
+  min-height: 60px;
+  min-width: 0;
+  outline: none;
+  padding: 16px 24px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 100%;
+  will-change: transform;
+  width: 6.5cm;
+}
+
+.b2:disabled{
+  pointer-events: none;
+}
+
+.b2:hover{
+  box-shadow: #ffffff 0 0 25px;
+  transform: translateY(-6px);
+  color: #000000;
+  background-color: #ffffff;
+  border-color: #FFFFFF;
+}
+
+.b2:active{
+  box-shadow: none;
+  transform: translateY(0);
+}
+
+.image{
+    height: 6cm;
+    width: 6cm;
+}
+
+.home{
+  text-decoration: none;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700  ;
+  font-style: normal;
+  margin-bottom: 15cm;
+  font-size: larger;
+  transition-duration: 225ms;
+  transition-timing-function: linear;
+}
+
+.home:hover{
+  color: #898888;
+ }
+ 
+ .home_active{
+  text-decoration: none;
+  color: #087cfc;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700  ;
+  font-style: normal;
+  margin-bottom: 15cm;
+  font-size: larger;
+  transition-duration: 225ms;
+  transition-timing-function: linear;
+ }
+
+ .home_active:hover{
+  color: #0f4e92;
+ }
+
+ .skins{
+  text-decoration: none;
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700  ;
+  font-style: normal;
+  margin-bottom: 15cm;
+  font-size: larger;
+  transition-duration: 225ms;
+  transition-timing-function: linear;
+}
+
+.skins:hover{
+  color: #898888;
+ }
+ 
+ .skins_active{
+  text-decoration: none;
+  color: #087cfc;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700  ;
+  font-style: normal;
+  margin-bottom: 15cm;
+  font-size: larger;
+  transition-duration: 225ms;
+  transition-timing-function: linear;
+ }
+
+ .skins_active:hover{
+  color: #0f4e92;
+ }
